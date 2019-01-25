@@ -1,6 +1,6 @@
 #install.packages("rvest")
 #==================== https://www.meteored.cl/ ====================#
-
+library ('rvest')
 # 1.- Se realiza la búsqueda y se copia la URL generada
 # 2.- Se asigna la url generada a la variable paginaTiempo
 paginaTiempo <-"https://www.meteored.cl/tiempo-en_Santiago+de+Chile-America+Sur-Chile-Region+Metropolitana+de+Santiago-SCEL-1-18578.html"
