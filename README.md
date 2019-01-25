@@ -1,5 +1,18 @@
-# Proyecto-3djuegos.com
-Proyecto para la clase de Big Data, de la Universidad UTEM, sobre la página web 3djuegos.com,para poder extraer información de esta. 
-3djuegos.com Es una revista online especializada en videojuegos y líder de audiencia en España, esta página está en línea desde junio de 2005, y tiene lectores de 13 a 35 años, siendo el promedio 23 años, público del cual el 89% es masculino.
-La idea de este proyecto es compilar la mayor información posible sobre las valoraciones que los usuarios dan a los juegos, siendo esta una puntuación del 1 al 10, con 10 la mejor nota,
-y ver si la popularidad de ciertos tipos de juegos, considerados violentos, por ejemplo juegos shooters o de peleas, causan o no, en ese público promedio ya mencionado, algún tipo de comportamiento agresivo y/o depresivo en la vida real, esto se va a comparar con otra fuente de información a definir.
+# Proyecto-meteored.cl
+Proyecto para la clase de Big Data, de la Universidad UTEM, sobre la página web https://www.meteored.cl/ ,para poder extraer información de esta. 
+La idea es poder conseguir el pronóstico del clima diaro, con la intención de ocupar esta información en la creación de un jardin personal,saber que tipo de protección solar usar, a que horas se debe regar, etc. Para esto de está página se extraerá la siguiente información:
+*el día a recolectar la información
+* la hora a hora de la información
+*los grados centigrados
+*la descripción del cielo y la sensación termica
+*índice UV y FPS
+¿Qué es el Índice UV?
+
+El índice UV es una medida de la intensidad de radiación ultravioleta (UV), proveniente del Sol, al nivel de la superficie terrestre. Sirve para orientarnos a la hora de evitar sobreexposiciones al Sol y posibles lesiones en la piel.
+
+El Sol emite energía en diferentes longitudes de ondas, una parte de ella llega en forma de ondas ultravioletas nocivas para la vida. Parte de dicha energía es absorbida por la capa de ozono en niveles altos, otra parte alcanza la superficie de la Tierra. El índice UV mide esta componente que llega a la superficie de nuestro planeta.
+¿Qué es el FPS?
+
+El FPS o Factor de Protección Solar es un valor que nos da una idea de cuánto tiempo tardaríamos en quemarnos si nos hemos echado crema de protección solar. Por ejemplo, una crema de FPS 15 indicaría que tardaríamos 15 veces más en quemarnos que en esas mismas condiciones sin habernos echado crema.
+
+
